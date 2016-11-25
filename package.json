@@ -1,0 +1,27 @@
+{
+  "name": "demoheroku",
+  "version": "1.0.0",
+  "description": "this is a small demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milotiger/DemoHeroku.git"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "Thanh Tri Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milotiger/DemoHeroku/issues"
+  },
+  "homepage": "https://github.com/milotiger/DemoHeroku#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
